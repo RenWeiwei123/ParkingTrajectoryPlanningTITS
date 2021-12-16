@@ -1,0 +1,4 @@
+mu_strategy	adaptive
+bound_push	0.01
+linear_solver	ma57
+print_level 0
